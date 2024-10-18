@@ -1,4 +1,4 @@
-const backendDomin = process.env.REACT_APP_BACKEND_DOMAIN || "http://localhost:8000";
+const backendDomin = process.env.REACT_APP_BACKEND_DOMAIN || "https://backend-ecomm-0ltl.onrender.com";
 
 const SummaryApi = {
     signUP : {
